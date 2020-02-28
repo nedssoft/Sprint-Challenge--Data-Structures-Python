@@ -59,7 +59,6 @@ class LinkedList:
 
     # Perform swap
     while current:
-
       # Assign the current node next to a var
       next_node = current.next_node
       # Assign the prev to the next node
